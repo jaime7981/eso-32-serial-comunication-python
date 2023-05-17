@@ -1,1 +1,1 @@
-# eso-32-serial-comunication-python
+# esp-32-serial-comunication-python
